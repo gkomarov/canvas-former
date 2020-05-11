@@ -1,6 +1,10 @@
 This project created for forming of canvas for printing.
 Program should to form data set for handwrite printing by robot.
 
+## Example image
+
+![](example_image.png)
+
 ## For start
 
 You can load default template and edit it. Also you can to form a new canvas form. 
